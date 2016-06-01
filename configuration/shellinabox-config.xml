@@ -20,7 +20,7 @@
 
   <property require-input="true">
     <name>shellinabox_port</name>
-    <description>Tachyon UnderFS Address</description>
+    <description>ShellInaBox http port</description>
     <value>4200</value>
   </property>
 
