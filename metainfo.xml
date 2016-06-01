@@ -27,8 +27,8 @@
                 <component>
                     <name>SHELL_BOX_MASTER</name>
                     <displayName>Shell in a Box</displayName>
-                    <category>MASTER</category>
-                    <cardinality>0+</cardinality>
+                    <category>SLAVE</category>
+                    <cardinality>1+</cardinality>
                     <commandScript>
                         <script>scripts/master.py</script>
                         <scriptType>PYTHON</scriptType>
